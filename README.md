@@ -25,6 +25,7 @@ Ready-to-play builds are in the [`downloads/`](downloads) folder. Click a file, 
 | Windows | [`LastRebound_Windows.zip`](downloads/LastRebound_Windows.zip) |
 | macOS | [`LastRebound_macOS.zip`](downloads/LastRebound_macOS.zip) |
 | Linux | [`LastRebound_Linux.zip`](downloads/LastRebound_Linux.zip) |
+| Web (browser) | [`LastRebound_Web.zip`](downloads/LastRebound_Web.zip): upload to itch.io as an HTML game |
 
 ## Play
 

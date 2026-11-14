@@ -43,7 +43,7 @@ var _t := 0.0
 func _ready() -> void:
 	if camera_path != NodePath():
 		camera = get_node(camera_path) as Camera3D
-	if OS.has_feature("mobile"):
+	if OS.has_feature("mobile") or OS.has_feature("web"):
 		glow.shadow_enabled = false  # omni shadows are expensive on phones
 	contact_monitor = true
 	max_contacts_reported = 4

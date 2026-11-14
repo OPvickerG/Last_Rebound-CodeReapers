@@ -77,7 +77,8 @@ func _ready() -> void:
 	hud.difficulty_chosen.connect(_on_difficulty_chosen)
 	hud.ember_changed.connect(_on_ember_changed)
 	storm.gust_started.connect(_on_gust)
-	if OS.has_feature("mobile") or OS.get_cmdline_user_args().has("--touch"):
+	if OS.has_feature("mobile") or OS.has_feature("web_android") or OS.has_feature("web_ios") \
+			or OS.get_cmdline_user_args().has("--touch"):
 		_setup_touch()
 	start_position = player.global_position
 	respawn_position = start_position

@@ -181,7 +181,7 @@ func begin_dawn(seconds: float = 8.0) -> void:
 
 func _build_rain() -> void:
 	_rain = GPUParticles3D.new()
-	_rain.amount = 1300 if OS.has_feature("mobile") else 2600
+	_rain.amount = 1300 if (OS.has_feature("mobile") or OS.has_feature("web")) else 2600
 	_rain.lifetime = 1.1
 	_rain.local_coords = false
 	_rain.visibility_aabb = AABB(Vector3(-30, -40, -30), Vector3(60, 60, 60))
