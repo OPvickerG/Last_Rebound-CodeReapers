@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <title>LAST REBOUND icon</title>
+  <defs>
+    <linearGradient id="icBg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#262c3d"/><stop offset="1" stop-color="#0b0d14"/></linearGradient>
+    <linearGradient id="icBell" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5e3d1c"/><stop offset="0.35" stop-color="#c98d4b"/><stop offset="0.55" stop-color="#a8733a"/><stop offset="1" stop-color="#3e2711"/></linearGradient>
+    <radialGradient id="icMouth" cx="0.5" cy="0.0" r="1.0"><stop offset="0" stop-color="#ff7a26" stop-opacity="0.85"/><stop offset="1" stop-color="#ff7a26" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#icBg)"/>
+  <rect x="70" y="60" width="2.2" height="46" rx="1.1" fill="#9aa6c4" opacity="0.25" transform="rotate(8 70 60)"/><rect x="120" y="150" width="2.2" height="38" rx="1.1" fill="#9aa6c4" opacity="0.18" transform="rotate(8 120 150)"/><rect x="420" y="90" width="2.2" height="50" rx="1.1" fill="#9aa6c4" opacity="0.22" transform="rotate(8 420 90)"/><rect x="452" y="250" width="2.2" height="40" rx="1.1" fill="#9aa6c4" opacity="0.16" transform="rotate(8 452 250)"/><rect x="380" y="30" width="2.2" height="34" rx="1.1" fill="#9aa6c4" opacity="0.2" transform="rotate(8 380 30)"/><rect x="60" y="300" width="2.2" height="44" rx="1.1" fill="#9aa6c4" opacity="0.15" transform="rotate(8 60 300)"/><rect x="470" y="380" width="2.2" height="36" rx="1.1" fill="#9aa6c4" opacity="0.14" transform="rotate(8 470 380)"/><rect x="150" y="40" width="2.2" height="30" rx="1.1" fill="#9aa6c4" opacity="0.2" transform="rotate(8 150 40)"/><rect x="330" y="140" width="2.2" height="28" rx="1.1" fill="#9aa6c4" opacity="0.12" transform="rotate(8 330 140)"/>
+  <rect x="236" y="70" width="40" height="22" rx="8" fill="#5e3d1c"/>
+  <path d="M208.0,104.2 C205.0,82.6 307.0,82.6 304.0,104.2 C325.0,136.6 316.0,223.0 340.0,287.8 C361.0,331.0 406.0,336.4 406.0,358.0 L106.0,358.0 C106.0,336.4 151.0,331.0 172.0,287.8 C196.0,223.0 187.0,136.6 208.0,104.2 Z" fill="url(#icBell)"/>
+  <ellipse cx="256" cy="358" rx="150" ry="22" fill="#2a1a0c"/>
+  <ellipse cx="256" cy="362" rx="132" ry="16" fill="url(#icMouth)"/>
+  <defs>
+    <radialGradient id="icg" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0.35" stop-color="#ff7a26" stop-opacity="0.55"/>
+      <stop offset="0.7" stop-color="#ff7a26" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#ff7a26" stop-opacity="0"/></radialGradient>
+    <radialGradient id="icc" cx="0.42" cy="0.36" r="0.72">
+      <stop offset="0" stop-color="#fff6dc"/><stop offset="0.3" stop-color="#ffe2a8"/>
+      <stop offset="0.65" stop-color="#ff7a26"/><stop offset="1" stop-color="#9a2a08"/></radialGradient>
+  </defs>
+  <circle cx="256.00" cy="392.00" r="78.20" fill="url(#icg)"/>
+  <circle cx="256.00" cy="392.00" r="34.00" fill="url(#icc)"/>
+  <circle cx="253.2" cy="331.4" r="1.6" fill="#ff7a26" opacity="0.89"/><circle cx="219.9" cy="350.1" r="2.9" fill="#ffe2a8" opacity="0.54"/><circle cx="260.9" cy="320.9" r="1.4" fill="#ff7a26" opacity="0.67"/><circle cx="272.1" cy="332.1" r="2.6" fill="#ffe2a8" opacity="0.57"/><circle cx="240.4" cy="348.3" r="2.2" fill="#ff7a26" opacity="0.92"/><circle cx="264.9" cy="314.6" r="2.0" fill="#ffe2a8" opacity="0.84"/>
+</svg>

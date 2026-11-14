@@ -1,0 +1,21 @@
+# Godot cache and local settings
+.godot/
+*.import.tmp
+export_credentials.cfg
+
+# Builds go to GitHub Releases, not the repo
+build/
+*.apk
+*.aab
+*.exe
+*.x86_64
+*.app
+*.dmg
+
+# Never commit signing keys
+*.keystore
+*.jks
+*.idsig
+
+# Ready-made builds are kept in downloads/
+!downloads/*.apk
