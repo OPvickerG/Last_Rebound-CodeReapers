@@ -2,6 +2,8 @@
 
 <p align="center"><i>A storm. A bell tower. One ember. Fall, rise, ring the bell.</i></p>
 
+<p align="center"><b><a href="https://opvickerg.itch.io/last-rebound">▶ Play in your browser on itch.io</a></b></p>
+
 A 3D physics platformer made in **Godot 4.5**. You are a burning ember climbing a
 stone bell tower in a thunderstorm. Every platform is a bronze gong that rings its
 own note when you hit it, so **your climb plays the melody**.
@@ -16,6 +18,8 @@ own note when you hit it, so **your climb plays the melody**.
 **Trailer (40 s, with sound):** [`media/trailer.mp4`](media/trailer.mp4)
 
 ## Download
+
+**Play instantly in your browser:** [https://opvickerg.itch.io/last-rebound](https://opvickerg.itch.io/last-rebound)
 
 Ready-to-play builds are in the [`downloads/`](downloads) folder. Click a file, then **Download raw file** (the ⤓ button):
 
